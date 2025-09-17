@@ -11,5 +11,5 @@ Program mendukung:
 - Bisa di run dengan .exe secara langsung, terdapat transparansi *source code* bila perlu debugging
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- Rekomendasi pribadi adalah supaya pengguna server menggunakan ngrok untuk membuat tcp yang memiliki addres yang dapat diterima oleh client
-- Copy paste IP dan Port supaya dapat diakses client
+Rekomendasi pribadi adalah supaya pengguna server menggunakan **ngrok** untuk membuat tcp yang memiliki addres yang dapat diterima oleh client
+Copy paste IP dan Port supaya dapat diakses client
